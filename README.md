@@ -1,2 +1,4 @@
 # Pariwisata Jawa Timur
-ini adalah dokumentasi dari tugas membuat website pariwsata
+this is the documentation of the task of making a tourism website
+## follow my social media
+appasidap [Twitter](https://twitter.com/appasidap)
